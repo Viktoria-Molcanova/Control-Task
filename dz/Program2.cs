@@ -9,7 +9,7 @@
 string[] arrayOne = new string[5] {"44", "Cruassan", "hello", "world", "GB"};
 string[] arrayTwo = new string[arrayOne.Length];
 
-// Метод определения 3 элементов в массиве
+// Метод проверки условия ( <=3)
 
 void CorrectLength (string[] arrayOne, string[] arrayTwo)
 {
